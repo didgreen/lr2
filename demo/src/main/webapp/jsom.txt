@@ -1,0 +1,17 @@
+{"Cats" : [
+  {
+    "Kind": "Ragdoll",
+    "age": "12-17 years",
+    "size": "medium",
+    "origin": "United States",
+    "pounds": "10-20 pounds"
+  },
+  {
+    "Kind": "Exotic Shorthair",
+    "age": "12-15 years",
+    "size": "large",
+    "origin": "United States",
+    "pounds": "8-14 pounds"
+  },
+
+  {"Kind":"аааа","age":"аааааа","size":"аааааа","origin":"ааааааа","pounds":"аааааа"}]}
